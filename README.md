@@ -1,4 +1,4 @@
-<img src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg">
+<img src="https://cdn-developer-wp.arc.dev/wp-content/uploads/2022/06/coding-programming-project-ideas-1128x635.jpg">
 <h1 align="center">Hi 👋, I'm Tharushi Himasha</h1>
 <h3 align="center">I am Software Engineer</h3>
 
