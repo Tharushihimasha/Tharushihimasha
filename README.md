@@ -1,4 +1,4 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.planview.com%2Ftop-6-software-development-methodologies%2F&psig=AOvVaw1yiGUWSZG-gpM_JPcYdZul&ust=1687842101766000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMiEoP-T4P8CFQAAAAAdAAAAABAE">
+<img src="https://www.techrepublic.com/wp-content/uploads/2022/07/top-ide-software-770x433.jpeg">
 <h1 align="center">Hi 👋, I'm Tharushi Himasha</h1>
 <h3 align="center">I am Software Engineer</h3>
 
